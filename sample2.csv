@@ -1,0 +1,40 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.100,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.300,
+f.example.com,1.1.1.7,No,12.200,
+g.example.com,1.1.1.6,no,15,Guarded by sharks with lasers on their heads
+h.example.com,  1.1.1.9,No,14.910,  Leading spaces in the notes
+blue
+
+i.example.com,  1.1.1.500 ,No,14,g
+
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.100,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.300,
+f.example.com,1.1.1.7,No,12.200,
+g.example.com,1.1.1.6,no,15,Guarded by sharks with lasers on their heads
+h.example.com,  1.1.1.9,No,14.910,  Leading spaces in the notes
+blue
+
+i.example.com,  1.1.1.500 ,No,14,g
+
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.100,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.300,
+f.example.com,1.1.1.7,No,12.200,
+g.example.com,1.1.1.6,no,15,Guarded by sharks with lasers on their heads
+h.example.com,  1.1.1.9,No,14.910,  Leading spaces in the notes
+blue
+
+i.example.com,  1.1.1.500 ,No,14,g
+
