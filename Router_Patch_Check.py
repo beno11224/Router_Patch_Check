@@ -9,7 +9,7 @@ import sys  ##used to obtain the command line parameters
 ##  item[4] = Notes
 
 def main():
-    if len(sys.argv) > 2 or len(sys.argv) < 2: ##check if too many args
+    if len(sys.argv) != 2: ##check correct number of args
         print("Incorrect number of arguments, please only pass in the filename of the file to read.")
     else:
         filename = sys.argv[1] ##assign the 2nd command line parameter for filename to filename
